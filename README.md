@@ -6,4 +6,3 @@ Utilized ML Algorithms such as SVMs, decision trees, RNNs and LSTM to gain insig
 
 Implemented data cleaning, normalization and interpolation techniques to enhance the model’s performance
 
-More infomation about problem statement can be found here 
